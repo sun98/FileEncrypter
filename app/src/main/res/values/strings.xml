@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">File Encrypter</string>
+    <string name="encrypt">加密</string>
+    <string name="decrypt">解密</string>
+    <string name="file_path">请输入文件路径</string>
+    <string name="sd">SD卡根目录</string>
+</resources>
